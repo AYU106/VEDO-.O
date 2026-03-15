@@ -1,6 +1,6 @@
 {
-  "update_version_url": "https://raw.githubusercontent.com/<you>/<repo>/main/vedo_version.txt",
-  "update_script_url": "https://raw.githubusercontent.com/<you>/<repo>/main/vedo.py",
+  "update_version_url": "https://github.com/AYU106/VEDO-.O/raw/refs/heads/main/vedo_version.txt",
+  "update_script_url": "https://github.com/AYU106/VEDO-.O/raw/refs/heads/main/vedo.py",
   "auto_update": false,
   "gemini_api_key": "AIzaSyDFbgFoni_RFRhR3kGzWogU-7ey-Cjd3B4",
   "gemini_model": "text-bison-001",
